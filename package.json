@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.2",
+    "gray-matter": "^4.0.3",
+    "react-markdown": "^8.0.3"
+  }
+}
